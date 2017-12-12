@@ -7,7 +7,7 @@ distributions.</p>
 
 [![Snap Status](https://build.snapcraft.io/badge/konrad11901/tcpie-snap.svg)](https://build.snapcraft.io/user/konrad11901/tcpie-snap)
 
-> The author of this tool is silverwind. The original repository can be found [here](https://github.com/silverwind/tcpie).
+> The author of this tool is **silverwind**. The original repository can be found [here](https://github.com/silverwind/tcpie).
 
 ## Install
 
